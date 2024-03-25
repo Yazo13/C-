@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\bin\Debug\TestForQuiz.exe.config
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\bin\Debug\TestForQuiz.exe
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\bin\Debug\TestForQuiz.pdb
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.Form1.resources
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.Properties.Resources.resources
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.User.resources
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.csproj.CopyComplete
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.exe
+C:\Users\Admin\Desktop\TestForQuiz\TestForQuiz\obj\Debug\TestForQuiz.pdb

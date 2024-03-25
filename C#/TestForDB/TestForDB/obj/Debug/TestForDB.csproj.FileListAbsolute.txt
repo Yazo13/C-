@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\TestForDB\TestForDB\obj\Debug\TestForDB.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TestForDB\TestForDB\obj\Debug\TestForDB.Form1.resources
+C:\Users\Admin\Desktop\TestForDB\TestForDB\obj\Debug\TestForDB.Properties.Resources.resources
+C:\Users\Admin\Desktop\TestForDB\TestForDB\obj\Debug\TestForDB.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TestForDB\TestForDB\obj\Debug\TestForDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TestForDB\TestForDB\bin\Debug\TestForDB.exe.config
+C:\Users\Admin\Desktop\TestForDB\TestForDB\bin\Debug\TestForDB.exe
+C:\Users\Admin\Desktop\TestForDB\TestForDB\bin\Debug\TestForDB.pdb
+C:\Users\Admin\Desktop\TestForDB\TestForDB\obj\Debug\TestForDB.exe
+C:\Users\Admin\Desktop\TestForDB\TestForDB\obj\Debug\TestForDB.pdb
+C:\Users\Admin\Desktop\TestForDB\TestForDB\obj\Debug\TestForDB.Insert_Update.resources
